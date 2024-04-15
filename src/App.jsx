@@ -6,7 +6,7 @@ import SideBar from "./components/Sidebar"
 function App() {
   const [data, setData] = useState(null)
   const [loading, setLoading] = useState(false)
-  const [showModal, setShowModal] = useState(false)
+  const [showModal, setShowModal] = useState(false) // TODO
 
   function handleToggleModal() {
     setShowModal(!showModal)
