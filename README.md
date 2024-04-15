@@ -1,5 +1,7 @@
 README.md
 
+Rainer Nsa
+
 NASA Explorer
 A React application showcasing the wonders of space through NASA's open APIs.
 
